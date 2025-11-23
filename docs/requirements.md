@@ -1,7 +1,7 @@
 # Rocket Launch Simulator Requirements
 
 ## Overview
-This document outlines functional and non-functional requirements for a modular rocket launch simulator (F9, Starship, New Glenn) using STM32 embedded C/C++ for hardware control and Python for GUI/simulation. Scope: Simulate launch to MECO via axis movements, sensor syncing -- modular design for swaps.
+This document outlines functional and non-functional requirements for my modular rocket launch simulator using STM32 embedded C/C++ for hardware control and Python for GUI/simulation. Scope: Simulate launch to MECO via axis movements, sensor syncing -- modular design for swaps.
 
 ## Functional Requirements (FRs)
 
