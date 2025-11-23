@@ -14,4 +14,4 @@ STM32F446RE MCU NUCLEO-F446RE
 
 MECCANIXITY 2pcs 500RPM Micro Gear Motor with Encoder, N20 DC6V
 
-
+5 Pcs 0.96 Inch OLED I2C IIC Display Module 12864 128x64 Pixel SSD1306 Mini Self-Luminous OLED Screen Board Compatible with Arduino Raspberry Pi (White)

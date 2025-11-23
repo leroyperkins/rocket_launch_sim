@@ -11,3 +11,20 @@ learn as I go and apply many different techniques to one goal.
 
 Got a list of all of my hardware that I have. Sensors, servos, small motors, nucleo board
 and 3D printer. Focusing on making it all manageable to take on and do in small chunks.
+
+11/23/2025
+
+Working on python venv for GUI setup. Upgraded to 3.14.0 annd installed necessary packages
+for everything I would need. 
+
+Created venv: py -m venv env 
+
+start script: env\Scripts\activate and just type "deactivate" for shutting off
+
+pip install pyserial matplotlib numpy tk for all packages
+
+Getting weird import errors, so I did pip list and made sure in my venv that packages
+were appearing. Turns out VSCode needed to change the python interpreter to point at the 
+python.exe from my venv folder. Got that fixed.
+
+Created requirements.md for defining FR and NFR, project scope and objectives.
